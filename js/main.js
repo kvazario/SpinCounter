@@ -4574,7 +4574,7 @@ var PSeu = function () {
       '100': 5
     };
 
-    this.multipliers = [2, 3, 4, 10, 25, 120, 240, 12000];
+    this.multipliers = [2, 3, 5, 10, 25, 120, 240, 12000];
 
     // 2nd and 3rd place will recieve 1/12 of prize pool when hit top3 multiplier
     this.jp = 12;
